@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+.henny-penny-regular {
+  font-family: "Henny Penny", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.mouse-memoirs-regular {
+  font-family: "Mouse Memoirs", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
